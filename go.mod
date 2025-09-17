@@ -1,4 +1,4 @@
-module boot.http.test
+module github.com/Oghenebrume50/httpfromtcp
 
 go 1.25
 
